@@ -1,2 +1,3 @@
 some text
 testing git commit only
+changes being made for testing git paragraphs
